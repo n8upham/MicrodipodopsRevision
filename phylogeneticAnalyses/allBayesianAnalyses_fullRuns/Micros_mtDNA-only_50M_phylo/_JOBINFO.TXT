@@ -1,0 +1,14 @@
+Task\ label=Micros_mtDNA-only_50M_phylo-3
+Task\ ID=3165225
+Tool=MRBAYES_XSEDE
+created\ on=2024-11-25 12:56:39.0
+JobHandle=NGBW-JOB-MRBAYES_XSEDE-C3E2C5A4AE2C49148AAFF1C1650C3E9A
+RunNumber=1
+resource=expanse
+User\ ID=115927
+User\ Name=nupham2
+email=nathan.upham@yale.edu
+Output=(ALL_FILES,*,UNKNOWN,UNKNOWN,UNKNOWN)
+ChargeFactor=1.000000
+cores=8
+JOBID=35382038

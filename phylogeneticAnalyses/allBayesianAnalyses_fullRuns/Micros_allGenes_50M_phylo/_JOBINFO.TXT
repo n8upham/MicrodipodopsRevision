@@ -1,0 +1,14 @@
+Task\ label=Micros_allGenes_phylo_50M_1
+Task\ ID=1771578
+Tool=MRBAYES_XSEDE
+created\ on=2019-03-11 12:28:08.0
+JobHandle=NGBW-JOB-MRBAYES_XSEDE-040278A381EF4C2E8CF1A0DBB10148DD
+resource=comet
+User\ ID=115927
+User\ Name=nupham2
+email=nathan.upham@yale.edu
+
+Output=(ALL_FILES,*,UNKNOWN,UNKNOWN,UNKNOWN)
+ChargeFactor=1.000000
+cores=16
+JOBID=21845610
