@@ -19,6 +19,16 @@ finalFigures
 
 outputs
 - phylogeneticAnalyses
+	- allBayesianAnalyses_fullRuns
+		- Micros_allGenes_50M_1Exp: all genes, 50 million generations, chrongram - 1 fossil calibration of exponential
+		- Micros_allGenes_50M_1Uni: all genes, 50 million generations, chrongram - 1 fossil calibration of uniform
+		- Micros_allGenes_50M_phylo: all genes, 50 million generations, phylogram
+		- Micros_allGenes_50M_phylo_noHistorical: all genes, 50 million generations, phylogram, excluding historical specimens
+		- Micros_mtDNA-only_50M_phylo: mtDNA only, 50 million generations, phylogram
+
+	- consensusTrees
+	- plotMCC_Micros.R
+
 - rangeMaps
 	- backgroundShapes: coastlines, state borders needed to reproduce the map figures
 	- RangeMap_SHPs: expert range maps for the 6 _Microdipodops_ species, and for the genus-level distribution
