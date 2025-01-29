@@ -26,8 +26,8 @@ outputs
 		- Micros_allGenes_50M_phylo_noHistorical: all genes, 50 million generations, phylogram, excluding historical specimens
 		- Micros_mtDNA-only_50M_phylo: mtDNA only, 50 million generations, phylogram
 
-	- consensusTrees
-	- plotMCC_Micros.R
+	- consensusTrees: .tre and .pdf files for the MCC consensus trees of each analysis
+	- plotMCC_Micros.R: R code for plotting these MCC phylogenies
 
 - rangeMaps
 	- backgroundShapes: coastlines, state borders needed to reproduce the map figures
