@@ -6,12 +6,12 @@
 ## Table of contents
 data
 - alignmentsDNA
-	- MicroAll_outPerog_allGenes.nex: full matrix in nexus format
-	- MicroAll_outPerog_allGenes.phy: full matrix in phylip format
+	- _MicroAll_outPerog_allGenes.nex_: full matrix in nexus format
+	- _MicroAll_outPerog_allGenes.phy_: full matrix in phylip format
 
 - phenotypicData
-	- Hafner et al. MS cranial morphometrics 2025.xls: Raw morphometric data for 441 specimens across the original 20 variables. As explained in the text, our discriminant function analyses were based on 387 specimens (337/441 specimens had complete cranial data for the 14 variables used in our study).  
-	- Hafner et al. MS colorimetrics_2025.xls: Raw colorimetric data for 678 specimens across 8 variables. As explained in the text, our discriminant function analyses were based on 678 specimens and using only 3 variables.  
+	- _Hafner et al. MS cranial morphometrics 2025.xls_: Raw morphometric data for 441 specimens across the original 20 variables. As explained in the text, our discriminant function analyses were based on 387 specimens (337/441 specimens had complete cranial data for the 14 variables used in our study).  
+	- _Hafner et al. MS colorimetrics_2025.xls_: Raw colorimetric data for 678 specimens across 8 variables. As explained in the text, our discriminant function analyses were based on 678 specimens and using only 3 variables.  
 
 finalFigures
 - mainFigures
@@ -27,7 +27,7 @@ outputs
 		- Micros_mtDNA-only_50M_phylo: mtDNA only, 50 million generations, phylogram
 
 	- consensusTrees: .tre and .pdf files for the MCC consensus trees of each analysis
-	- plotMCC_Micros.R: R code for plotting these MCC phylogenies
+	- _plotMCC_Micros.R_: R code for plotting these MCC phylogenies
 
 - rangeMaps
 	- backgroundShapes: coastlines, state borders needed to reproduce the map figures
